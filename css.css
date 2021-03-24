@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	box-sizing: border-box;
+	font-size: 16px;
+	background-color: black;
+}
+
+#main-menu{
+	display: flex;
+	justify-content: center;
+}
+
+#logo{
+	/*border: 1px solid white;*/
+}
+
+#first-row{
+	display: flex;
+	justify-content: center;
+}
