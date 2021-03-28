@@ -5,16 +5,24 @@ body {
 	background-color: black;
 }
 
-#main-menu{
+#logo{
 	display: flex;
 	justify-content: center;
 }
 
-#logo{
-	/*border: 1px solid white;*/
+#menu{
+	height: 130px;
 }
 
 #first-row{
 	display: flex;
 	justify-content: center;
+	/*width: 50%;*/
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+#classic-queen-picture{
+	width: 800px;
 }
